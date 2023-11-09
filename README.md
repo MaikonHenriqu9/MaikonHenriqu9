@@ -22,7 +22,7 @@
 </div>
 
 
-<h2>Tecnologias</h2>
+<h2 align="center">Tecnologias</h2>
 <div align="center">
   <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">

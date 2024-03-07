@@ -1,13 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=69EAF7&center=true&vCenter=true&random=false&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+%F0%9F%91%8B%F0%9F%8F%BB;Seja+Bem+Vindo+ao+meu+Perfil;Meu+nome+%C3%A9+Maikon+Henrique;E+sou+desenvolvedor+Web)](https://git.io/typing-svg)
 
+
+## Git Status 
 <div align="center" href="https://github.com/maikonhenriqu9">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=maikonhenriqu9&show_icons=true&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonhenriqu9&layout=compact&langs_count=7&theme=dracula"/>    
 </div>
 &nbsp;&nbsp;
 
-
-## Tecnologias que estou estudando
+## Sobre mim 👨
+- 🔵 Ex-Proano
+- 💻 Analise e Desenvolvimento
+- 👨‍💻 Desenvlvedor Full Stack
+- 📚 Sempre em busca de conhecimento
+- 🎥 Apreciador de filmes
+ 
+## Tecnologias que estou estudando 👨‍💻
 <div > 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,15 +30,15 @@
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
 </div>
 
-## Ferramentas
+## Ferramentas 🧰
 <div>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-    
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">  
 </div>
 
-## Contatos
+## Contatos 📱
 <div> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/maikon-henrique-856bb5212/">
     &nbsp;

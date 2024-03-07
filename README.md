@@ -1,19 +1,4 @@
-<h1 align="center">  Olá, Seja Bem vindo(a)🫡 </h1>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/maikon-henrique-856bb5212/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-</a> 
-<a href="https://mailto:maikonhenrique189@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.instagram.com/maikonhenriqu8/">    
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-</div>
-<hr>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=69EAF7&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+tudo+bem%3F+%F0%9F%91%8B%F0%9F%8F%BB;Seja+Bem+Vindo+ao+meu+Perfil;Meu+nome+%C3%A9+Maikon+Henrique)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://github.com/maikonhenriqu9">
@@ -30,3 +15,15 @@
 </div>
 
 
+## Contatos
+<div align="center">
+<a href="https://www.linkedin.com/in/maikon-henrique-856bb5212/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a> &nbsp;
+<a href="https://mailto:maikonhenrique189@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>  &nbsp;
+<a href="https://www.instagram.com/maikonhenriqu8/">    
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</div>

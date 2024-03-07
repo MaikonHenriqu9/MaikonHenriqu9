@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=69EAF7&center=true&vCenter=true&random=false&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+%F0%9F%91%8B%F0%9F%8F%BB;Seja+Bem+Vindo+ao+meu+Perfil;Meu+nome+%C3%A9+Maikon+Henrique;E+sou+desenvolvedor+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F86C93&center=true&vCenter=true&random=false&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+%F0%9F%91%8B%F0%9F%8F%BB;Seja+Bem+Vindo+ao+meu+Perfil+%F0%9F%98%81;Meu+nome+%C3%A9+Maikon+Henrique;E+sou+Desenvolvedor+Full+Stack+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 ## Git Status 
@@ -11,7 +11,7 @@
 ## Sobre mim 👨
 - 🔵 Ex-Proano
 - 💻 Analise e Desenvolvimento
-- 👨‍💻 Desenvlvedor Full Stack
+- 👨‍💻 Desenvolvedor Full Stack
 - 📚 Sempre em busca de conhecimento
 - 🎥 Apreciador de filmes
  

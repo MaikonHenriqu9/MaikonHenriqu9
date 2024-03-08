@@ -2,7 +2,7 @@
 
 
 ## Git Status 
-<div align="center" href="https://github.com/maikonhenriqu9">
+<div align="center" display="flex" href="https://github.com/maikonhenriqu9">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=maikonhenriqu9&show_icons=true&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonhenriqu9&layout=compact&langs_count=7&theme=dracula"/>    
 </div>

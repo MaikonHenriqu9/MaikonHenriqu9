@@ -9,8 +9,8 @@
 &nbsp;&nbsp;
 
 ## Sobre mim 👨
-- 🔵 Ex-Proano
-- 💻 Analise e Desenvolvimento
+- 🔵 Ex Aluno do Instituto Proano
+- 💻 Analise e Desenvolvimento na Fatec de Mogi das Cruzes
 - 👨‍💻 Desenvolvedor Full Stack
 - 📚 Sempre em busca de conhecimento
 - 🎥 Apreciador de filmes

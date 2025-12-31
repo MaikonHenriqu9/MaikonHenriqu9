@@ -9,6 +9,7 @@
 &nbsp;&nbsp;
 
 ## Sobre mim 👨
+- ⌨️ Analista de Automações e Dados Jr
 - 🔵 Ex Aluno do Instituto Proano
 - 💻 Analise e Desenvolvimento na Fatec de Mogi das Cruzes
 - 👨‍💻 Desenvolvedor Full Stack

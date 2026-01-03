@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Python-242322?style=for-the-badge&logo=python&logoColor=lightblue">
 </div>
 
+
 ## Ferramentas 🧰
 <div>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
